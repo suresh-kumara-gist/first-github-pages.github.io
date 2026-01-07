@@ -3,7 +3,7 @@ backend:
   repo: suresh-kumara-gist/first-github-pages.github.io
   branch: main
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/69557408df31b27a0c783265
+  auth_endpoint: /auth/github/repo/695e25f9cf43ed317a80e864
 media_folder: static/uploads
 public_folder: /uploads
 collections:
